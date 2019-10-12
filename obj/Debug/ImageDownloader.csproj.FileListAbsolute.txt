@@ -1,0 +1,9 @@
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\bin\Debug\ImageDownloader.exe.config
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\bin\Debug\ImageDownloader.exe
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\bin\Debug\ImageDownloader.pdb
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.csprojAssemblyReference.cache
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.Form1.resources
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.Properties.Resources.resources
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.csproj.GenerateResource.cache
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.exe
+C:\Users\Jesper\source\repos\ImageDownloader\ImageDownloader\obj\Debug\ImageDownloader.pdb
