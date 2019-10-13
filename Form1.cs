@@ -42,7 +42,7 @@ namespace ImageDownloader
 
         private void folderBrowserDialog1_HelpRequest(object sender, EventArgs e)
         {
-
+            //TODO: Learn how to scrape images from google in C#
         }
 
         
